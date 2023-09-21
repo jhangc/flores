@@ -2,7 +2,7 @@ body {
   background-color: #000;
   margin: 0;
   padding: 0;
-  height: 100vh; /* Asegura que el cuerpo ocupe toda la altura de la ventana */
+  height: 100vh;
   display: flex;
   align-items: center; /* Centra verticalmente los elementos en el cuerpo */
   justify-content: center; /* Centra horizontalmente los elementos en el cuerpo */
@@ -29,6 +29,7 @@ body {
     text-align: center;
     color: #fff; /* Color del texto */
     font-size: 25px; /* Tamaño del texto */
+    
 }
 
 .text-above {
